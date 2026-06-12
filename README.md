@@ -12,3 +12,9 @@
 - 截动图GIF [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
 ### 梯子
+
+## 学习资源
+
+### Ai
+
+- [学习](https://learn.shareai.run)
